@@ -65,7 +65,6 @@ include:
 exclude:
   - README.md
   - LICENSE.md
-  - _projects
 
 plugins:
   - jekyll-seo-tag
